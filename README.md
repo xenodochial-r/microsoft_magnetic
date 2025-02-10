@@ -2,8 +2,14 @@
 
 # Microsoft Magnetic & RD-Agent
 
+## Getting Started
+[Tutorial Mircosoft](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html)
+[Autogen Github](https://github.com/microsoft/autogen)
+
+
 ## Overview
 Microsoft has developed advanced AI-driven multi-agent systems to tackle complex tasks in research, development, and automation. These projects, **Magentic One** and **RD-Agent**, provide innovative solutions leveraging reinforcement learning and artificial intelligence to enhance efficiency across various domains.
+
 
 ## Projects
 
